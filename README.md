@@ -2,7 +2,7 @@
 Capstone/Case Study Project for TekSystems/Optum Training
 
 
-User Stories
+User Stories/Framework
 
   Home (Game) Page:
     - As a user, I want to be presented with a fresh instance of a "game" every day (new games release at 12am Arizona Time), so that I can play a fresh game everyday.
@@ -10,6 +10,9 @@ User Stories
     - As a user, I want to be shown a 360 view of a random place on eart, so that I can guess where that location is.
     - As a user, I want to be shown multiple choice answers on where my random location might be, so that I can be shown how far away from that point I am.
     - As a user, I want to be presented with three random location per day to guess from, so that I can have multiple tries to guess a location.
+    
+    1. Add changing cover images of places on Earth
+    2. Add "" 
     
   Results Page:
     - As a user, I want to be presented with my guessing results once I am finished, so that I can know how well I did at guessing.
