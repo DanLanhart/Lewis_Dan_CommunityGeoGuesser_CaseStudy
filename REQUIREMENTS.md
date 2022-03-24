@@ -11,6 +11,7 @@
 Views
 
 -Use an external CSS stylesheet (internal styling may be used along with frameworks such as Bootstrap, but you must still include and utilize a custom CSS external file)
+
 -Your application should include six different views/pages (wireframes of the pages should be submitted with the project)
 -Use HTML to layout the pages and Thymeleaf to make the pages dynamic (frameworks such as Angular or React can be used as well but will not be covered in the course. The application’s presentation must meet the general view requirements.)
 -Use CSS to style the web pages
