@@ -9,6 +9,7 @@
 -Use Tomcat as the webserver
 
 Views
+
 -Use an external CSS stylesheet (internal styling may be used along with frameworks such as Bootstrap, but you must still include and utilize a custom CSS external file)
 -Your application should include six different views/pages (wireframes of the pages should be submitted with the project)
 -Use HTML to layout the pages and Thymeleaf to make the pages dynamic (frameworks such as Angular or React can be used as well but will not be covered in the course. The application’s presentation must meet the general view requirements.)
@@ -17,6 +18,7 @@ Views
 -Include a navigation section that is included across multiple pages
 
 Models and Database
+
 -The configuration file must be set up correctly (e.g., persistence.xml or application.properties)
 -Include at least three custom queries
 -Test each custom query created in each repository
@@ -33,6 +35,7 @@ Models and Database
 -Use JUnit to perform unit tests on the JPA repositories/services
 
 Spring
+
 -Use Spring Boot to implement the project
 -Include at least two ways of creating a managed bean/object
 -Use correct implementations of dependency injection with appropriate use of the @Autowired annotation
@@ -44,6 +47,7 @@ Spring
 -The project package structure should be shown in class where the models, DAO/repositories, services, controllers, exceptions, etc., have a package. Views or templates don’t require a package.
 
 Standard Java naming conventions should be followed
+
 -Classes should be written in Pascal case
 -Variables, methods, and URLs should be written in camel case
 -Files, including view files, should be written in snake case
