@@ -1,9 +1,14 @@
 - A complete working application is due by Tuesday, 4/26/22, at midnight.
+
 - Grading will be done through the case study development phase and conclude after the final presentation on Wednesday, 4/27/22. This will be done by appointment. 
+
 - Your instructor will schedule practice presentation sessions before the final presentation during the case study development phase.
+
 - All learner should present their case studies individually on Wednesday, 4/27/22. Fellow learners, instructors, visitors will be in the audience. Your instructor will schedule the presentation slot for you.
+
 - The Case Study Grading rubrics can be found here (Links to an external site.).
-- Technical Requirements:
+
+Technical Requirements
 
 -Application naming format for canvas submission: LastName_FirstName_ProjectName_CaseStudy
 -Use Tomcat as the webserver
