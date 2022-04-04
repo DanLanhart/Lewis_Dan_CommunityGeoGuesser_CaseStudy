@@ -1,3 +1,8 @@
+GENERAL UPDATES:
+
+(3/24)
+  - Project files created on local PC. HTML/CSS files started and image carousel is "working". Downloaded Atom for HTML/CSS editing.
+
 - A complete working application is due by Tuesday, 4/26/22, at midnight.
 
 - Grading will be done through the case study development phase and conclude after the final presentation on Wednesday, 4/27/22. This will be done by appointment. 
@@ -12,8 +17,10 @@
 
 Technical Requirements
 
--Application naming format for canvas submission: LastName_FirstName_ProjectName_CaseStudy
--Use Tomcat as the webserver
+- Application naming format for canvas submission: LastName_FirstName_ProjectName_CaseStudy
+(COMPLETED 3/24/2022, project naming convention: Lewis_Dan_Glober_CaseStudy)
+
+- Use Tomcat as the webserver
 
 
 
@@ -48,6 +55,7 @@ Models and Database
 - Include at least one test suite
 
 - Use MariaDB as your DBMS
+(UPDATE 3/24/2022, I've asked if I'm allowed to use MySQL instead, waiting on answer.)
 
 - Have at least four models along with tables in a relational database (if four models/tables do not make sense for your application, discuss this with your instructor)
 
